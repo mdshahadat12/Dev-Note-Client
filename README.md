@@ -1,13 +1,10 @@
-## Tasker Pro (The Task Management Web App)
-
+## Dev Notes
+## [Live Website](https://dev-note-sadt.netlify.app)
 ## Features:
 - Authentication
 - Add task
 - Update task
 - Delete Task
-- Mark as completed
-- Separate ongoing tasks
-- Set important priority task
 
 ## Technologie used:
 - React
@@ -17,4 +14,4 @@
 - Tailwind CSS
 - Firebase
 
-## Live Website: https://tasker-pro1.web.app
+
